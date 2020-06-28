@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\bin\Debug\CalenderSage.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\bin\Debug\CalenderSage.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\bin\Debug\CalenderSage.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.pdb
+E:\New folder\projects\CalenderSage\CalenderSage\bin\Debug\CalenderSage.exe.config
+E:\New folder\projects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.exe
+E:\New folder\projects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.pdb
+E:\New folder\CasedProjects\CalenderSage\CalenderSage\bin\Debug\CalenderSage.exe.config
+E:\New folder\CasedProjects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.exe
+E:\New folder\CasedProjects\CalenderSage\CalenderSage\obj\Debug\CalenderSage.pdb
